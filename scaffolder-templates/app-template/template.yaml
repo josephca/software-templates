@@ -67,7 +67,7 @@ spec:
           description: ${{ parameters.description }}
           size: ${{ parameters.size }}
           owner: ${{ parameters.owner }}
-	  organization: ${{ parameters.organization }}
+          organization: ${{ parameters.organization }}
           environments: ${{ parameters.environments }}
 
     - id: pull-request
