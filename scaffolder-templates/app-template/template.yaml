@@ -15,7 +15,7 @@ spec:
       required:
         - application_id
         - owner
-	- organization
+        - organization
         - size
         - environments
         - description
